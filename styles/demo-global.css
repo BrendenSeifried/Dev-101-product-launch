@@ -1,6 +1,8 @@
 /* Google Fonts import copied from the font-selection page */
 @import url('https://fonts.googleapis.com/css2?family=Patua+One&family=Permanent+Marker&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Space+Mono&display=swap');
+
 
 :root {
   /* css variables with theme colors,
@@ -132,7 +134,8 @@ button {
   color: var(--white);
   border: 0;
   padding: 20px;
-  font-family: 'Permanent Marker', cursive;
+  /*font-family: 'Permanent Marker', cursive;*/
+  font-family: 'Anton', sans-serif;
   font-size: 1.5rem;
 }
 
