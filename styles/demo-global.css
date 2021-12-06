@@ -29,8 +29,7 @@ body {
 
   /* give the image a defined height and width,
      then cover will make sure it covers that area */
-  /*object-fit: cover;*/
-  object-fit: fill;
+  object-fit: cover;
   height: 50vh;
   width: 100vw;
 }
