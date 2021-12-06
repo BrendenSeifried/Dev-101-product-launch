@@ -7,7 +7,7 @@
     names have to start with "--" */
   --nomad: #b9af9e;
   --zeus: #e0e0e0;
-  --irish-coffee: #604124;
+  --irish-coffee: #ffffff;
   --potters-clay: #362aa1;
   --sinopia: #c25223ff;
   --white: white;
@@ -93,7 +93,7 @@ body {
   grid-area: signup; 
   
   /* Make the form go the full width so background color goes to the edges */
-  width: 100%;
+  width: 11%;
   background: var(--irish-coffee);
   
   /* Add padding on all sides */
