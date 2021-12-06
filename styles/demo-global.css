@@ -80,7 +80,7 @@ body {
   /* Color and font settings for the header */
   color: var(--nomad);
   font-family: 'Space Mono', monospace;
-  font-size: 5rem;
+  font-size: 4rem;
   line-height: 1.25;
   background: var(--sinopia);
 }
@@ -103,7 +103,7 @@ body {
   /* Make the form go the full width so background color goes to the edges */
   width: 100%;
   height: 20%
-  
+  background: var(--irish-coffee);
   
   /* Add padding on all sides */
   padding: 60px 0px 60px 1000px;
