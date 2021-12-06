@@ -44,16 +44,19 @@ body {
     display: grid;
     /* Two columns wide, three rows long */
     /* even split 50/50 */
-    grid-template-columns: 40% 60%;
+    grid-template-columns: 60% 40%;
     /* auto fit content for first two, 
        then give remaining space to third row */
     grid-template-rows: auto auto 2fr;
     /* This is a "picture" of where each element should go */
     grid-template-areas:
       /*'header  image'*/
+     /* 'header header'
+      'lead image'
+      'signup  image';*/
       'header header'
       'lead image'
-      'signup  image';
+      'signup  signup';
     /* Default positioning: stretch horizontally, center vertically */
     justify-items: stretch;
     align-items: center;
@@ -77,7 +80,7 @@ body {
   /* Color and font settings for the header */
   color: var(--nomad);
   font-family: 'Space Mono', monospace;
-  font-size: 2rem;
+  font-size: 5rem;
   line-height: 1.25;
 }
 
