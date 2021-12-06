@@ -5,6 +5,7 @@ Build and deploy and single page "Product Launch Page"!
 
 ## Resources
 
+
 Keep it Simple, looking for Teaser more than complete product page:
 - [Mailchimp page builder](https://mailchimp.com/features/landing-pages)
 
