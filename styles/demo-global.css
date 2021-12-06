@@ -16,7 +16,8 @@
 body {
   background: var(--potters-clay);
   /* these become the default font settings for the reset of the page */
-  font-family: 'Noto Serif', 'Patua One', sans-serif;
+  /*font-family: 'Noto Serif', 'Patua One', sans-serif;*/
+  font-family: 'Space Mono', monospace;
   color: var(--zeus);
 }
 
