@@ -83,11 +83,11 @@ body {
   /* for grid mode, the area for this element */
   grid-area: lead;
   /* Add padding on all sides except the top */
-  padding: 0 60px 60px 60px;
+  padding: 100px 60px 60px 60px;
 
   /* Font settings for the lead */
-  font-size: 1.3rem;
-  line-height: 1.5;
+  font-size: 2rem;
+  line-height: 2.5;
 }
 
 #signup-form {
