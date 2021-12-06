@@ -42,13 +42,14 @@ body {
     display: grid;
     /* Two columns wide, three rows long */
     /* even split 50/50 */
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 40% 60%;
     /* auto fit content for first two, 
        then give remaining space to third row */
-    grid-template-rows: auto auto 1fr;
+    grid-template-rows: auto auto 2fr;
     /* This is a "picture" of where each element should go */
     grid-template-areas:
-      'header  image'
+      /*'header  image'*/
+      'header'
       'lead image'
       'signup  image';
     /* Default positioning: stretch horizontally, center vertically */
