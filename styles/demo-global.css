@@ -7,13 +7,13 @@
   --nomad: #b9af9e;
   --zeus: #221d14;
   --irish-coffee: #604124;
-  --potters-clay: #836038;
+  --background: #1C3728;
   --sinopia: #c25223ff;
   --white: white;
 }
 
 body {
-  background: var(--potters-clay);
+  background: var(--background);
   /* these become the default font settings for the reset of the page */
   font-family: 'Patua One', sans-serif;
   color: var(--zeus);
