@@ -71,7 +71,8 @@ body {
   /* for grid mode, the area for this element */
   grid-area: header;
   /* Add padding to left and right sides */
-  padding: 0 60px;
+  /*padding: 0 60px;*/
+  padding: 15px 100px;
 
   /* Color and font settings for the header */
   color: var(--nomad);
