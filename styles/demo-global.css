@@ -47,7 +47,7 @@ body {
     grid-template-columns: 60% 40%;
     /* auto fit content for first two, 
        then give remaining space to third row */
-    grid-template-rows: auto auto 100px;
+    grid-template-rows: auto auto;
     /* This is a "picture" of where each element should go */
     grid-template-areas:
       /*'header  image'*/
