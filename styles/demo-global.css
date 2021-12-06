@@ -93,7 +93,8 @@ body {
   grid-area: signup; 
   
   /* Make the form go the full width so background color goes to the edges */
-  width: 11%;
+  width: 100%;
+  height: 20%
   background: var(--irish-coffee);
   
   /* Add padding on all sides */
