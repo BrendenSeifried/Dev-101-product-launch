@@ -72,8 +72,8 @@ body {
 
   /* Color and font settings for the header */
   color: var(--nomad);
-  font-family: 'Permanent Marker', cursive;
-  font-size: 3rem;
+  font-family: 'Space Mono', monospace;
+  font-size: 2rem;
   line-height: 1.25;
 }
 
