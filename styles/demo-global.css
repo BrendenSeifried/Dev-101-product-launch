@@ -1,5 +1,6 @@
 /* Google Fonts import copied from the font-selection page */
 @import url('https://fonts.googleapis.com/css2?family=Patua+One&family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
 
 :root {
   /* css variables with theme colors,
@@ -7,15 +8,15 @@
   --nomad: #b9af9e;
   --zeus: #221d14;
   --irish-coffee: #604124;
-  --background: #1C3728;
+  --potters-clay: #1C3728;
   --sinopia: #c25223ff;
   --white: white;
 }
 
 body {
-  background: var(--background);
+  background: var(--potters-clay);
   /* these become the default font settings for the reset of the page */
-  font-family: 'Patua One', sans-serif;
+  font-family: 'Noto Serif', 'Patua One', sans-serif;
   color: var(--zeus);
 }
 
@@ -57,7 +58,7 @@ body {
   /* In wide mode, image should take up the full height,
      but not go wider than the allotted column width */
   #hero-image {
-    height: 100%;
+    height: 87%;
     max-width: 100%;
   }
 }
