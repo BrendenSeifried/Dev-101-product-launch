@@ -16,7 +16,7 @@
 }
 
 body {
-  #img background-image: url("paper.gif"); 
+  
 
   /*background: var(--potters-clay);*/
   
@@ -26,6 +26,7 @@ body {
   font-family: 'Space Mono', monospace, serif;
   color: var(--zeus);
 }
+#img{background-image: url("paper.gif"); }
 
 #hero-image {
   /* for grid mode, the area for this element */
