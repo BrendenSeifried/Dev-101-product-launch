@@ -10,15 +10,15 @@
   --nomad: #b9af9e;
   --zeus: #e0e0e0;
   --irish-coffee: #ffffff;
-  --potters-clay: #362aa1;
+  --potters-clay: #1c0abe;
   --sinopia: rgb(0, 0, 0);
   --white: white;
 }
 
 body {
-  /*background: var(--potters-clay);*/
-  background-image: stripes;
-  object-fit: fill;
+  background: var(--potters-clay);
+  
+  
   /* these become the default font settings for the reset of the page */
   /*font-family: 'Noto Serif', 'Patua One', sans-serif;*/
   font-family: 'Space Mono', monospace;
@@ -32,7 +32,7 @@ body {
   /* give the image a defined height and width,
      then cover will make sure it covers that area */
   object-fit: cover;
-  height: 50vh;
+  height: 90vh;
   width: 100vw;
 }
 
