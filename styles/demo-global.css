@@ -18,7 +18,7 @@
 body {
   
 
-  /*background: var(--potters-clay);*/
+  background: var(--potters-clay);
   
   
   /* these become the default font settings for the reset of the page */
@@ -26,7 +26,6 @@ body {
   font-family: 'Space Mono', monospace, serif;
   color: var(--zeus);
 }
-#img{background-image: url("carbon.jpg"); }
 
 #hero-image {
   /* for grid mode, the area for this element */
