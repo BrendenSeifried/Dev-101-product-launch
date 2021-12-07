@@ -21,7 +21,7 @@ body {
   
   /* these become the default font settings for the reset of the page */
   /*font-family: 'Noto Serif', 'Patua One', sans-serif;*/
-  font-family: 'Space Mono', monospace;
+  font-family: 'Space Mono', monospace, serif;
   color: var(--zeus);
 }
 
@@ -81,7 +81,7 @@ body {
 
   /* Color and font settings for the header */
   color: var(--nomad);
-  font-family: 'Space Mono', monospace;
+  font-family: 'Space Mono', monospace, serif;
   font-size: 4rem;
   line-height: 1.25;
   background: var(--sinopia);
