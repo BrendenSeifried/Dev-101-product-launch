@@ -18,15 +18,15 @@
 body {
   
 
-  /*background: var(--potters-clay);*/
-  #img{ background-image: url("carbon.jpg"); }
+background: var(--potters-clay);
+#img{ background-image: url("carbon.jpg"); }
 
   
   
   /* these become the default font settings for the reset of the page */
   /*font-family: 'Noto Serif', 'Patua One', sans-serif;*/
   font-family: 'Space Mono', monospace, serif;
-  color: var(--zeus);
+color: var(--zeus);
 }
 
 #hero-image {
