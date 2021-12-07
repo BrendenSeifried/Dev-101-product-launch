@@ -16,9 +16,9 @@
 }
 
 body {
-  /*background: var(--potters-clay);*/
-  #img{ background-image: url("carbon.jpg"); }
+  #img background-image: url("paper.gif"); 
 
+  /*background: var(--potters-clay);*/
   
   
   /* these become the default font settings for the reset of the page */
