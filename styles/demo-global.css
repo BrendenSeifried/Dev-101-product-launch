@@ -57,7 +57,8 @@ body {
       'lead image'
       'signup  image';*/
       'header header'
-      'lead image'
+      'lead lead' 
+      'image image'
       'signup  signup';
     /* Default positioning: stretch horizontally, center vertically */
     justify-items: stretch;
