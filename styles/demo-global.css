@@ -92,6 +92,7 @@ body {
   grid-area: lead;
   /* Add padding on all sides except the top */
   padding: 100px 60px 60px 60px;
+  background:rgb(0, 0, 0)
 
   /* Font settings for the lead */
   font-size: 2rem;
