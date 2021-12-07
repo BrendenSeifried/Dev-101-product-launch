@@ -26,7 +26,7 @@ body {
   font-family: 'Space Mono', monospace, serif;
   color: var(--zeus);
 }
-#img{background-image: url("carbon.gif"); }
+#img{background-image: url("carbon.jpg"); }
 
 #hero-image {
   /* for grid mode, the area for this element */
